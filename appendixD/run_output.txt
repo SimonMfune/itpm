@@ -1,0 +1,20 @@
+ sprint      pv      ev      ac   spi   cpi     eac
+      1  276250  276250  268000 1.000 1.031 2522353
+      2  552500  515938  539000 0.934 0.957 2716220
+      3  828750  784062  815000 0.946 0.962 2702591
+      4 1105000 1068438 1094000 0.967 0.977 2662205
+      5 1381250 1328438 1366000 0.962 0.973 2673517
+      6 1657500 1604688 1640000 0.968 0.978 2657215
+      7 1933750 1828125 1916000 0.945 0.954 2724978
+      8 2210000 2023125 2190000 0.915 0.924 2814458
+      9 2486250 2214062 2465000 0.891 0.898 2894679
+Sprint 2: SPI 0.934, amber: steering group, with a recovery plan
+Sprint 3: SPI 0.946, amber: steering group, with a recovery plan
+Sprint 7: SPI 0.945, amber: steering group, with a recovery plan
+Sprint 8: SPI 0.915, amber: steering group, with a recovery plan
+Sprint 8: CPI 0.924, amber: steering group, with a recovery plan
+Sprint 9: SPI 0.891, red: tell the investment committee
+Sprint 9: CPI 0.898, red: tell the investment committee
+Chance of finishing within 100 days: 25%
+P50 105, P80 113, P90 116 days
+Report saved to pm_report.xlsx and agile_evm.csv

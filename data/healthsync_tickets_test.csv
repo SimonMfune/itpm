@@ -1,0 +1,41 @@
+ticket,text,agreed_priority
+TKT-001,Spelling mistake on the home screen of the app.,3
+TKT-002,Payment confirmations failing for every patient at one clinic since 09:00; patients who paid shown as unpaid.,1
+TKT-003,Can the daily list show the patient's phone number?,3
+TKT-004,Possible duplicate record for a patient who registered twice.,3
+TKT-005,"All patients at the hospital see ""service unavailable"" when they try to book in the app.",1
+TKT-006,Video calls dropping after about two minutes for most patients at the Lusaka clinics.,2
+TKT-007,Receptionist asks where to find the job aid for walk-in patients.,3
+TKT-008,Patient cannot hear the doctor; doctor's headset was muted.,3
+TKT-009,Daily list font too small when printed.,3
+TKT-010,SMS confirmations not arriving for patients on one mobile network.,2
+TKT-011,One doctor's profile photo is missing.,3
+TKT-012,How do I move a patient's appointment to next week?,3
+TKT-013,Patient wants to change the phone number on their account.,3
+TKT-014,Nurse locked out after entering the wrong password three times.,3
+TKT-015,Label printer on reception desk 2 is not printing.,3
+TKT-016,Request to add a new consultation type for physiotherapy.,3
+TKT-017,Reception cannot register new patients at any Lusaka clinic; the form errors on save.,2
+TKT-018,Payments by card failing for all patients; mobile money still working.,2
+TKT-019,Clinic wants a different colour for urgent bookings on the list.,3
+TKT-020,Doctor reports that a patient record shows another patient's medication list.,1
+TKT-021,Request for training for two new receptionists.,3
+TKT-022,Doctor asks how to block out a lunch break.,3
+TKT-023,Audit log stopped recording record views since the last release.,2
+TKT-024,The report button is slow to load in the afternoon.,3
+TKT-025,Bookings made at reception take over an hour to appear in doctors' lists at two clinics.,2
+TKT-026,Patient's surname is misspelt after migration; please correct.,3
+TKT-027,Reception PCs at one clinic cannot sign in at all since this morning.,2
+TKT-028,Request to rename a clinic room in the scheduling screen.,3
+TKT-029,One appointment shows the wrong start time for a single patient.,3
+TKT-030,Receptionist asks how to print a receipt.,3
+TKT-031,Patient says the confirmation SMS has the wrong clinic address.,3
+TKT-032,Patient booked at Kitwe instead of Ndola; please move the booking.,3
+TKT-033,Doctor asks whether old CareBook notes can still be viewed.,3
+TKT-034,Prescription PDFs failing to generate for all doctors at the hospital.,2
+TKT-035,Video call for one patient was audio-only; patient was on mobile data.,3
+TKT-036,A patient asks for a copy of their visit history.,3
+TKT-037,"Clinic list for the hospital shows yesterday's appointments, not today's.",2
+TKT-038,Doctor asks how to admit a patient from the waiting room.,3
+TKT-039,Staff member forgot how to sign out of a shared PC.,3
+TKT-040,Doctors at one clinic cannot end video calls; the outcome form does not open.,2

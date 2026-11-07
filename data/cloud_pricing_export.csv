@@ -1,0 +1,43 @@
+provider,scenario,category,component,quantity,unit,unit_price_usd_per_hour,hours_per_month,monthly_cost_usd_on_demand,commitment_eligible,one_year_commitment_discount
+AWS,Low,Compute,Baseline virtual machines,6,VM,0.2,730,876,Yes,0.35
+AWS,Low,Compute,Peak virtual machines (on demand),2,VM,0.2,146,58,No,0
+AWS,Low,Database,Managed database,1,instance,,730,820,Yes,0.3
+AWS,Low,Communications,Video and SMS (usage-based),1,usage,,,420,No,0
+AWS,Low,Storage,Storage and backup,1,usage,,,290,No,0
+AWS,Low,Network,Data transfer out of the cloud,1,usage,,,170,No,0
+AWS,Low,Operations,"Monitoring, logging and security services",1,usage,,,360,No,0
+AWS,Expected,Compute,Baseline virtual machines,8,VM,0.2,730,1168,Yes,0.35
+AWS,Expected,Compute,Peak virtual machines (on demand),4,VM,0.2,182,146,No,0
+AWS,Expected,Database,Managed database,1,instance,,730,820,Yes,0.3
+AWS,Expected,Communications,Video and SMS (usage-based),1,usage,,,640,No,0
+AWS,Expected,Storage,Storage and backup,1,usage,,,310,No,0
+AWS,Expected,Network,Data transfer out of the cloud,1,usage,,,260,No,0
+AWS,Expected,Operations,"Monitoring, logging and security services",1,usage,,,380,No,0
+AWS,Peak,Compute,Baseline virtual machines,8,VM,0.2,730,1168,Yes,0.35
+AWS,Peak,Compute,Peak virtual machines (on demand),8,VM,0.2,255,409,No,0
+AWS,Peak,Database,Managed database,1,instance,,730,1150,Yes,0.3
+AWS,Peak,Communications,Video and SMS (usage-based),1,usage,,,980,No,0
+AWS,Peak,Storage,Storage and backup,1,usage,,,340,No,0
+AWS,Peak,Network,Data transfer out of the cloud,1,usage,,,400,No,0
+AWS,Peak,Operations,"Monitoring, logging and security services",1,usage,,,410,No,0
+Azure,Low,Compute,Baseline virtual machines,6,VM,0.21,730,920,Yes,0.37
+Azure,Low,Compute,Peak virtual machines (on demand),2,VM,0.21,146,61,No,0
+Azure,Low,Database,Managed database,1,instance,,730,860,Yes,0.33
+Azure,Low,Communications,Video and SMS (usage-based),1,usage,,,400,No,0
+Azure,Low,Storage,Storage and backup,1,usage,,,280,No,0
+Azure,Low,Network,Data transfer out of the cloud,1,usage,,,160,No,0
+Azure,Low,Operations,"Monitoring, logging and security services",1,usage,,,340,No,0
+Azure,Expected,Compute,Baseline virtual machines,8,VM,0.21,730,1226,Yes,0.37
+Azure,Expected,Compute,Peak virtual machines (on demand),4,VM,0.21,182,153,No,0
+Azure,Expected,Database,Managed database,1,instance,,730,860,Yes,0.33
+Azure,Expected,Communications,Video and SMS (usage-based),1,usage,,,610,No,0
+Azure,Expected,Storage,Storage and backup,1,usage,,,295,No,0
+Azure,Expected,Network,Data transfer out of the cloud,1,usage,,,250,No,0
+Azure,Expected,Operations,"Monitoring, logging and security services",1,usage,,,360,No,0
+Azure,Peak,Compute,Baseline virtual machines,8,VM,0.21,730,1226,Yes,0.37
+Azure,Peak,Compute,Peak virtual machines (on demand),8,VM,0.21,255,429,No,0
+Azure,Peak,Database,Managed database,1,instance,,730,1200,Yes,0.33
+Azure,Peak,Communications,Video and SMS (usage-based),1,usage,,,940,No,0
+Azure,Peak,Storage,Storage and backup,1,usage,,,325,No,0
+Azure,Peak,Network,Data transfer out of the cloud,1,usage,,,385,No,0
+Azure,Peak,Operations,"Monitoring, logging and security services",1,usage,,,390,No,0

@@ -1,0 +1,10 @@
+sprint,month,planned_points,committed_points,points_done,mvp_points_done,other_points_done,release_scope_points,scope_added_points,actual_cost_k,escaped_defects,open_sonarqube_issues,risk_exposure,safety_check_avg
+1,1,68,68,68,68,0,640,0,268000,,,95,
+2,1,68,66,59,59,0,640,0,271000,,,100,
+3,2,68,68,66,66,0,640,0,276000,,,92,
+4,2,68,70,70,70,0,640,0,279000,,,89,
+5,3,68,68,64,64,0,640,0,272000,,41,118,
+6,3,68,68,68,68,0,640,0,274000,,58,126,3.8
+7,4,68,70,66,55,11,653,13,276000,9,77,134,3.3
+8,4,68,68,61,48,13,674,21,274000,14,96,141,2.9
+9,5,68,66,57,47,10,716,42,275000,11,140,147,2.4

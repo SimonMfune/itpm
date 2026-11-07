@@ -1,0 +1,14 @@
+id,activity,optimistic,most_likely,pessimistic,predecessors
+A,Migration design,8,10,14,
+B,Data profiling and cleansing,20,25,40,A
+C,Migration scripts,30,40,62,A
+D,Test environment,8,10,14,A
+E,Rehearsal 1,4,5,8,B C D
+F,Fix rehearsal 1 defects,10,20,40,E
+G,Rehearsal 2,4,5,8,F
+H,Training materials,12,15,20,A
+I,Staff training,15,20,30,H E
+J,Cutover runbook,8,10,15,E
+K,Go/no-go decision,0,0,0,G I J
+L,Phased cutover by facility,8,10,15,K
+M,Hypercare,10,10,10,L

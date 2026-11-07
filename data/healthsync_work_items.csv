@@ -1,0 +1,61 @@
+item,title,story_points,created_day,started_day,finished_day,cycle_time_days,finished_in_sprint
+ATL-301,API endpoint,5,-3,-1,1,2,7
+ATL-302,Migration script fix,5,-4,-1,2,3,7
+ATL-303,Booking rule,5,-3,0,2,2,7
+ATL-304,Audit log change,1,-3,-1,2,3,7
+ATL-305,Test automation,5,-4,-2,4,6,7
+ATL-306,Pipeline change,8,-3,1,4,3,7
+ATL-307,Data cleansing rule,3,-1,0,4,4,7
+ATL-308,Reconciliation check,1,-8,-1,5,6,7
+ATL-309,Bug fix,8,-3,2,5,3,7
+ATL-310,Two-clinic test,5,-4,3,7,4,7
+ATL-311,Payment callback,2,-4,3,7,4,7
+ATL-312,Performance fix,5,-3,3,8,5,7
+ATL-313,API endpoint,8,2,6,9,3,7
+ATL-314,Migration script fix,2,-2,4,9,5,7
+ATL-315,Booking rule,5,-5,2,10,8,7
+ATL-316,Audit log change,5,6,8,10,2,7
+ATL-317,Test automation,2,-2,4,11,7,8
+ATL-318,Pipeline change,2,4,6,11,5,8
+ATL-319,Data cleansing rule,8,7,10,14,4,8
+ATL-320,Reconciliation check,3,-1,2,14,12,8
+ATL-321,Bug fix,3,0,7,14,7,8
+ATL-322,Two-clinic test,5,11,11,14,3,8
+ATL-323,Payment callback,3,3,9,14,5,8
+ATL-324,Performance fix,1,1,8,15,7,8
+ATL-325,API endpoint,2,4,10,15,5,8
+ATL-326,Migration script fix,3,2,8,15,7,8
+ATL-327,Booking rule,5,6,11,16,5,8
+ATL-328,Audit log change,5,2,9,16,7,8
+ATL-329,Test automation,3,1,6,16,10,8
+ATL-330,Pipeline change,2,12,12,16,4,8
+ATL-331,Data cleansing rule,5,11,11,17,6,8
+ATL-332,Reconciliation check,2,14,14,18,4,8
+ATL-333,Bug fix,5,11,12,18,6,8
+ATL-334,Two-clinic test,3,14,16,19,3,8
+ATL-335,Payment callback,3,10,15,19,4,8
+ATL-336,Performance fix,3,11,14,19,5,8
+ATL-337,API endpoint,2,4,11,19,8,8
+ATL-338,Migration script fix,2,5,11,21,10,9
+ATL-339,Booking rule,5,16,19,22,3,9
+ATL-340,Audit log change,2,16,18,22,4,9
+ATL-341,Test automation,1,15,16,24,8,9
+ATL-342,Pipeline change,2,19,21,24,3,9
+ATL-343,Data cleansing rule,8,14,19,24,5,9
+ATL-344,Reconciliation check,5,19,19,25,6,9
+ATL-345,Bug fix,5,11,14,25,11,9
+ATL-346,Two-clinic test,3,9,16,25,9,9
+ATL-347,Payment callback,5,20,20,25,5,9
+ATL-348,Performance fix,2,13,20,25,5,9
+ATL-349,API endpoint,5,16,20,26,6,9
+ATL-350,Migration script fix,1,12,13,26,13,9
+ATL-351,Booking rule,5,21,21,26,5,9
+ATL-352,Audit log change,8,17,21,27,6,9
+ATL-353,Test automation,5,15,19,27,8,9
+ATL-354,Pipeline change,1,19,22,28,6,9
+ATL-355,Data cleansing rule,5,20,22,28,6,9
+ATL-356,Reconciliation check,3,20,25,29,4,9
+ATL-357,Bug fix,8,22,23,30,7,9
+ATL-358,Two-clinic test,1,23,24,30,6,9
+ATL-359,Payment callback,1,15,18,30,12,9
+ATL-360,Performance fix,1,15,20,30,10,9
