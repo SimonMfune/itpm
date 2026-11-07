@@ -1,0 +1,54 @@
+sprint,team,type,note,votes
+1,Both,Went well,Inception week gave everyone the same picture of the objectives and the MVP,5
+1,Both,To improve,Cloud environments took four days to provision; developers waited,6
+1,Atlas,To improve,Definition of Done is still argued about at Sprint Review,3
+1,Both,Action,DevOps lead to script environment creation; QA lead to publish the Definition of Done on the wiki,0
+2,Both,Went well,Sprint Goal met by both teams,4
+2,Baobab,To improve,A request for a symptom checker reached two developers directly from Marketing before the Product Owner knew about it,6
+2,Both,To improve,Communication between teams about API contracts is by chat and gets lost,5
+2,Both,Action,All new requests go through the Product Owner; API contracts recorded in the repository,0
+3,Baobab,Went well,End-to-end video call from Kabwe on mobile data worked at the second attempt,7
+3,Atlas,To improve,Pull requests wait more than a day for review,5
+3,Baobab,To improve,Contract developers lack access to the test data set,4
+3,Both,Action,Review rota with a four-hour target; contractors given synthetic test data,0
+4,Atlas,To improve,PayBridge sandbox access took a week to arrive; payments story carried over,5
+4,Both,To improve,"Teams found out about a change to the scheduling API from the build failing, not from the other team",6
+4,Both,Went well,Scrum of scrums is short and useful,3
+4,Both,Action,Scrum of scrums to list interface changes planned for the coming sprint,0
+5,Atlas,To improve,Some unit tests skipped to finish the payments story by the Sprint Review,4
+5,Both,To improve,"Coverage gate lowered from 80% to 70% ""for now"" because it was blocking merges near the end of the sprint; the QA lead disagreed",5
+5,Atlas,Went well,STRIDE workshop found the object-level access gap before any patient data was involved,5
+5,Atlas,To improve,Data profiling shows far more possible duplicate patients than the business case assumed,6
+5,Both,Action,Skipped tests added to the backlog as debt items; profiling results to the steering group,0
+6,Atlas,To improve,PrescribeLink flaw stopped integration work; about 60 points blocked,7
+6,Both,To improve,Teams heard about the e-prescription halt in a chat group before any formal message,5
+6,Baobab,Went well,Pilot preparation at Central Hospital on track,3
+6,Both,Note,Safety check average 3.8,0
+6,Both,Action,Project manager to send a short written update to both teams after every steering decision,0
+7,Both,To improve,Pilot found a double booking when two receptionists booked the same slot,8
+7,Baobab,To improve,Video fails on entry-level Android phones used by many patients,7
+7,Atlas,To improve,Line coverage falling sprint on sprint,4
+7,Baobab,Action,QA lead to request entry-level phones for the device lab,0
+7,Both,Note,Safety check average 3.3,0
+8,Atlas,To improve,Tests skipped again to finish the payments work; coverage still falling under the 70% gate,5
+8,Both,To improve,Review queue keeps growing; items wait days in review,6
+8,Both,To improve,Several messages between teams were misunderstood; fixes duplicated,4
+8,Baobab,Went well,Device lab phones caught three video defects before release,5
+8,Both,Note,Safety check average 2.9,0
+9,Both,To improve,Developers say they have been skipping tests and refactoring for several sprints to keep up the pace,8
+9,Atlas,To improve,DevOps lead leaving in two weeks; much of the infrastructure is not documented,8
+9,Both,To improve,People did not feel able to raise problems in earlier retrospectives,6
+9,Both,Note,Safety check average 2.4,0
+9,Both,Action,Pair on infrastructure every day until the DevOps lead leaves; debt triage before more features,0
+10,Both,Went well,First full team health check; scores discussed openly,5
+10,Atlas,Went well,"Coverage gate restored for booking, payment and prescription code",6
+10,Atlas,To improve,Agency DevOps cover still learning the pipelines,4
+10,Both,Action,Health check every sprint; results kept within the team,0
+11,Both,Went well,Go/no-go evidence collected a week early,4
+11,Atlas,To improve,Penetration test finding added unplanned work late in the sprint,5
+11,Baobab,Went well,Reception staff in the pilot asked for the daily list rather than paper,4
+11,Both,Action,Security retest booked before go/no-go checkpoint,0
+12,Both,Went well,Phase 1 cutover rehearsed twice; runbook followed to the minute,6
+12,Atlas,To improve,Supplier certificate change caused the Monday payment incident; not in the runbook,7
+12,Both,Went well,Super-users at every desk answered most questions,5
+12,Both,Action,Supplier certificate check added to the runbook for Phases 2 and 3,0
