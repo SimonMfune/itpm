@@ -1,7 +1,7 @@
 sprint,team,type,note,votes
 1,Both,Went well,Inception week gave everyone the same picture of the objectives and the MVP,5
 1,Both,To improve,Cloud environments took four days to provision; developers waited,6
-1,Atlas,To improve,Definition of Done is still argued about at sprint review,3
+1,Atlas,To improve,Definition of Done is still argued about at Sprint Review,3
 1,Both,Action,DevOps lead to script environment creation; QA lead to publish the Definition of Done on the wiki,0
 2,Both,Went well,Sprint Goal met by both teams,4
 2,Baobab,To improve,A request for a symptom checker reached two developers directly from Marketing before the Product Owner knew about it,6
@@ -15,7 +15,8 @@ sprint,team,type,note,votes
 4,Both,To improve,"Teams found out about a change to the scheduling API from the build failing, not from the other team",6
 4,Both,Went well,Scrum of scrums is short and useful,3
 4,Both,Action,Scrum of scrums to list interface changes planned for the coming sprint,0
-5,Atlas,To improve,Some unit tests skipped to finish the payments story by the sprint review,4
+5,Atlas,To improve,Some unit tests skipped to finish the payments story by the Sprint Review,4
+5,Both,To improve,"Coverage gate lowered from 80% to 70% ""for now"" because it was blocking merges near the end of the sprint; the QA lead disagreed",5
 5,Atlas,Went well,STRIDE workshop found the object-level access gap before any patient data was involved,5
 5,Atlas,To improve,Data profiling shows far more possible duplicate patients than the business case assumed,6
 5,Both,Action,Skipped tests added to the backlog as debt items; profiling results to the steering group,0
@@ -29,7 +30,7 @@ sprint,team,type,note,votes
 7,Atlas,To improve,Line coverage falling sprint on sprint,4
 7,Baobab,Action,QA lead to request entry-level phones for the device lab,0
 7,Both,Note,Safety check average 3.3,0
-8,Atlas,To improve,Coverage gate lowered from 80% to 70% so that merges could get through before the payments deadline,5
+8,Atlas,To improve,Tests skipped again to finish the payments work; coverage still falling under the 70% gate,5
 8,Both,To improve,Review queue keeps growing; items wait days in review,6
 8,Both,To improve,Several messages between teams were misunderstood; fixes duplicated,4
 8,Baobab,Went well,Device lab phones caught three video defects before release,5
